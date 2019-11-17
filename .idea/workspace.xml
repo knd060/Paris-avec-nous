@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b474d677-0b8d-4e3c-ad25-66f5c72eb663" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/columns.html" afterPath="$PROJECT_DIR$/columns.html" />
       <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" afterPath="$PROJECT_DIR$/css/templatemo-style.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,10 +15,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="2261">
               <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
               <folding>
                 <marker date="1574014214458" expanded="true" signature="1011:1164" ph="..." />
@@ -28,11 +28,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templatemo-style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="columns.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/columns.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="272" column="18" lean-forward="true" selection-start-line="272" selection-start-column="18" selection-end-line="272" selection-end-column="18" />
+              <folding>
+                <marker date="1574014708426" expanded="true" signature="928:1081" ph="..." />
+                <marker date="1574014708426" expanded="true" signature="1021:1049" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="templatemo-style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/templatemo-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="1046" column="0" lean-forward="true" selection-start-line="1046" selection-start-column="0" selection-end-line="1046" selection-end-column="0" />
+            <state relative-caret-position="101">
+              <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,6 +76,7 @@
       <find>copyright-text</find>
       <find>html</find>
       <find>third-section</find>
+      <find>&quot;bg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -74,6 +88,7 @@
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/columns.html" />
         <option value="$PROJECT_DIR$/css/templatemo-style.css" />
       </list>
     </option>
@@ -164,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574013046867</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Solved Scrolling">
+      <created>1574014399231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574014399231</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -197,7 +219,8 @@
     <MESSAGE value="Removed Logo" />
     <MESSAGE value="Desabled Social Media Links" />
     <MESSAGE value="Centered Copyright text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Centered Copyright text" />
+    <MESSAGE value="Solved Scrolling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Scrolling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -246,22 +269,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/templatemo-style.css">
+    <entry file="file://$PROJECT_DIR$/columns.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="1046" column="0" lean-forward="true" selection-start-line="1046" selection-start-column="0" selection-end-line="1046" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="306">
+          <caret line="272" column="18" lean-forward="true" selection-start-line="272" selection-start-column="18" selection-end-line="272" selection-end-column="18" />
+          <folding>
+            <marker date="1574014708426" expanded="true" signature="928:1081" ph="..." />
+            <marker date="1574014708426" expanded="true" signature="1021:1049" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="2261">
           <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
           <folding>
             <marker date="1574014214458" expanded="true" signature="1011:1164" ph="..." />
             <marker date="1574014214458" expanded="true" signature="1104:1132" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/templatemo-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
