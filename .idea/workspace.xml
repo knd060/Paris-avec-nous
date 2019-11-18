@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b474d677-0b8d-4e3c-ad25-66f5c72eb663" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/columns.html" afterPath="$PROJECT_DIR$/columns.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="columns.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/columns.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="83" column="114" lean-forward="true" selection-start-line="83" selection-start-column="114" selection-end-line="83" selection-end-column="114" />
+            <state relative-caret-position="505">
+              <caret line="91" column="76" lean-forward="true" selection-start-line="91" selection-start-column="76" selection-end-line="91" selection-end-column="76" />
               <folding>
                 <marker date="1574067496771" expanded="true" signature="928:1081" ph="..." />
                 <marker date="1574067496771" expanded="true" signature="1021:1049" ph="..." />
@@ -132,6 +130,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -194,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574015700876</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Modified About text">
+      <created>1574067735056</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574067735056</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -230,7 +236,8 @@
     <MESSAGE value="Centered Copyright text" />
     <MESSAGE value="Solved Scrolling" />
     <MESSAGE value="Fixed Parallax" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Parallax" />
+    <MESSAGE value="Modified About text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified About text" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -338,8 +345,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/columns.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="83" column="114" lean-forward="true" selection-start-line="83" selection-start-column="114" selection-end-line="83" selection-end-column="114" />
+        <state relative-caret-position="505">
+          <caret line="91" column="76" lean-forward="true" selection-start-line="91" selection-start-column="76" selection-end-line="91" selection-end-column="76" />
           <folding>
             <marker date="1574067496771" expanded="true" signature="928:1081" ph="..." />
             <marker date="1574067496771" expanded="true" signature="1021:1049" ph="..." />
